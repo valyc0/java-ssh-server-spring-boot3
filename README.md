@@ -1,4 +1,12 @@
-# MyApp
+# SSH server
+
+connettersi tramite:
+
+java -jar ssh-server-jdk11.jar
+## per cambiare porta
+
+java -jar ssh-server-jdk11.jar --ssh.port=2224
+
 
 This app was created with Bootify.io - tips on working with the code [can be found here](https://bootify.io/next-steps/).
 
